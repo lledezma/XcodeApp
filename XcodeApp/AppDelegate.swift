@@ -3,7 +3,7 @@
 //  XcodeApp
 //
 //  Created by admin on 8/10/18.
-//  Copyright © 2018 Luis Ledezma. All rights reserved.
+//  .
 //
 
 import UIKit
